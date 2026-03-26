@@ -13,3 +13,8 @@ This portfolio showcases artifacts and enhancements developed during the CS-499 
 ## About Me
 
 I am completing my Bachelor of Science in Computer Science with a focus on backend development, secure software design, and database-driven applications.
+
+## Code Review
+
+The video of my initial code review can be found here:
+https://youtu.be/mdEB0lAgkEw
