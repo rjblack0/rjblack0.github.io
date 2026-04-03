@@ -21,4 +21,11 @@ This video presents an informal code review of my selected artifacts for the CS-
 The goal of this review is to demonstrate my ability to analyze existing code and propose meaningful improvements aligned with professional software development practices.
 
 Watch the full code review here:
-https://youtu.be/mdEB0lAgkEw
+
+https://www.youtube.com/embed/mdEB0lAgkEw
+
+Enhancement 1 and 3:
+[View Dashboard Notebook](./artifacts/Animal_Shelter).
+
+Enhancement 2:
+[View Bank Login App](./artifacts/Bank_Login).
