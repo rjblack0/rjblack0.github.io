@@ -14,8 +14,6 @@ Welcome to my Computer Science Capstone ePortfolio. This portfolio demonstrates 
 
 ## Professional Self-Assessment
 
-## Professional Self-Assessment
-
 Throughout my time in the Computer Science program, I developed a strong foundation in software engineering, algorithmic problem solving, database systems, and secure coding practices. Building this ePortfolio allowed me to not only strengthen those skills, but also demonstrate them through improved, real-world artifacts that reflect my growth as a developer.
 
 One of my biggest areas of growth was learning how to design and evaluate computing solutions using appropriate data structures and system architecture. In my Secure Banking Login Application, I redesigned the authentication workflow by adding structured validation, hashed credential comparison, and per-user login tracking using map data structures. I later refactored the program into an object-oriented design, introducing classes such as AuthenticationSystem and CustomerRecord to reduce global state and improve maintainability. This process helped me better understand how to balance simplicity, scalability, and security in real applications.
