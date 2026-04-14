@@ -83,8 +83,8 @@ I am completing my Bachelor of Science in Computer Science with a focus on backe
 
 Contact Information:
 
-[Email](ryanblackburn.dev@gmail.com): ryanblackburn.dev@gmail.com
+Email: ryanblackburn.dev@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/ryan-blackburn-b97290207): https://www.linkedin.com/in/ryan-blackburn-b97290207
+Linkedin: https://www.linkedin.com/in/ryan-blackburn-b97290207
 
 My interests include biking and kayaking, being a good owner to my dogs, and I am an aspiring novelist.
