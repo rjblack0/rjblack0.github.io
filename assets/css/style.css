@@ -1,0 +1,33 @@
+/* Background and main text */
+body {
+    background-color: #0a1a2f; /* deep navy */
+    color: #f5f7fa; /* soft white */
+    font-family: Arial, sans-serif;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+/* Links */
+a {
+    color: #4da6ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation list */
+ul {
+    background-color: #112a45;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Section spacing */
+section, div {
+    margin-bottom: 20px;
+}
