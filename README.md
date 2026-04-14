@@ -29,7 +29,7 @@ python -m notebook
 ### For the purpose of testing environment, a JSON file has been included which can be used for storing login credentials
 ### This file would NOT be included in any release versions.
 
-##Jupyter Notebook Requirements
+## Jupyter Notebook Requirements
 
 ### To test this on your local system:
 Navigate to the project folder
