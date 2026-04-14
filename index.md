@@ -9,6 +9,7 @@ Welcome to my Computer Science Capstone ePortfolio. This portfolio demonstrates 
 - [Code Review Video](#code-review-video)
 - [Artifact 1 Dashboard Application](#artifact-1-dashboard-application)
 - [Artifact 2 Secure Banking Login Application](#artifact-2-secure-banking-login-application)
+- [Artifact Use Guide](#artifact-use-guide)
 - [About Me](#about-me)
 
 ## Professional Self-Assessment
@@ -71,8 +72,17 @@ Key Enhancements:
 
 [View Bank Login App](./artifacts/Bank_Login)
 
+## Artifact Use Guide
+For testing purposes, These artifacts require installation and dependencies.
+
+[View Installation and Setup Guide](https://github.com/rjblack0/rjblack0.github.io/blob/main/README.md)
+
 ## About Me
 
 I am completing my Bachelor of Science in Computer Science with a focus on backend development, secure software design, and database-driven applications.
+
+Contact Information:
+[Email](ryanblackburn.dev@gmail.com): ryanblackburn.dev@gmail.com
+[Linkedin](https://www.linkedin.com/in/ryan-blackburn-b97290207): https://www.linkedin.com/in/ryan-blackburn-b97290207
 
 My interests include biking and kayaking, being a good owner to my dogs, and I am an aspiring novelist.
