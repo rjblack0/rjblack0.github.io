@@ -1,7 +1,17 @@
 # Ryan Blackburn – Computer Science ePortfolio
+
 Welcome to my Computer Science Capstone ePortfolio. This portfolio demonstrates my ability to design, develop, and enhance software systems across software engineering, algorithms, and database domains.
 
-## Professional Self Assessment
+## Navigation
+
+- [Professional Self-Assessment](#professional-self-assessment)
+- [Technical Artifacts Overview](#technical-artifacts-overview)
+- [Code Review Video](#code-review-video)
+- [Artifact 1 Dashboard Application](#artifact-1-dashboard-application)
+- [Artifact 2 Secure Banking Login Application](#artifact-2-secure-banking-login-application)
+- [About Me](#about-me)
+
+## Professional Self-Assessment
 
 Throughout my time in the Computer Science program, I have developed a strong foundation in software engineering, algorithmic problem solving, database systems, and secure coding practices. The process of completing my coursework and developing this ePortfolio has allowed me to not only build technical skills, but also to demonstrate them through tangible, improved artifacts that reflect my growth as a developer.
 
@@ -17,7 +27,6 @@ The artifacts included in this ePortfolio collectively demonstrate my ability to
 Collectively, these artifacts demonstrate my achievement of the core computer science course outcomes, including my ability to collaborate and communicate technical concepts effectively, design and evaluate computing solutions using algorithmic principles, apply modern tools and techniques to develop efficient systems, and maintain a strong security mindset by identifying and mitigating potential vulnerabilities. These skills are supported through both my technical implementations and the accompanying documentation and analysis throughout this portfolio.
 Overall, this ePortfolio represents my growth from writing functional code to designing structured, maintainable, and secure systems. It highlights my ability to evaluate existing implementations, apply appropriate tools and techniques, and improve systems in a way that aligns with industry practices. As I move forward in my career, I aim to continue building on these skills in backend development and secure software engineering, with a focus on designing scalable systems and integrating security into every stage of development.
 
-
 ## Technical Artifacts Overview
 
 This portfolio includes three enhanced artifacts demonstrating core competencies in:
@@ -32,7 +41,7 @@ Each artifact was analyzed, improved, and aligned with industry practices and co
 
 I am completing my Bachelor of Science in Computer Science with a focus on backend development, secure software design, and database-driven applications.
 
-## Code Review
+## Code Review Video
 
 This video presents an informal code review of my selected artifacts for the CS-499 capstone project. The review outlines the original functionality, identifies areas for improvement in structure, security, and efficiency, and explains the planned enhancements across the three required categories: software design, algorithms and data structures, and databases.
 
@@ -40,7 +49,8 @@ The goal of this review is to demonstrate my ability to analyze existing code an
 
 [Watch the Code Review on YouTube](https://www.youtube.com/watch?v=mdEB0lAgkEw)
 
-## Artifact 1: Dashboard Application (Software Engineering & Databases)
+## Artifact 1 Dashboard Application
+Software Engineering & Databases
 
 This artifact demonstrates improvements in system design, configuration management, and database efficiency.
 
@@ -52,7 +62,8 @@ Key Enhancements:
 
 [View Dashboard Notebook](./artifacts/Animal_Shelter)
 
-## Artifact 2: Secure Banking Login Application (Algorithms & Data Structures)
+## Artifact 2 Secure Banking Login Application
+Algorithms & Data Structures
 
 This artifact demonstrates the redesign of an insecure authentication system using structured algorithms and appropriate data structures.
 
@@ -63,3 +74,9 @@ Key Enhancements:
 - Object-oriented refactor for maintainability
 
 [View Bank Login App](./artifacts/Bank_Login)
+
+## About Me
+
+I am completing my Bachelor of Science in Computer Science with a focus on backend development, secure software design, and database-driven applications.
+
+My interests include biking and kayaking, being a good owner to my dogs, and I am an aspiring novelist.
