@@ -37,10 +37,6 @@ This portfolio includes three enhanced artifacts demonstrating core competencies
 
 Each artifact was analyzed, improved, and aligned with industry practices and course outcomes.
 
-## About Me
-
-I am completing my Bachelor of Science in Computer Science with a focus on backend development, secure software design, and database-driven applications.
-
 ## Code Review Video
 
 This video presents an informal code review of my selected artifacts for the CS-499 capstone project. The review outlines the original functionality, identifies areas for improvement in structure, security, and efficiency, and explains the planned enhancements across the three required categories: software design, algorithms and data structures, and databases.
