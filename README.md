@@ -91,3 +91,61 @@ Your actual command might change depending on your computer layout and the locat
 ```console
 [Full Path to mongoimport.exe] --db AAC --collection animals --type csv --headerline --file [Full path to the .csv file inside of your project/datasets folder]
 ```
+
+# Bank_Login Installation Notes
+
+## Source File
+
+The main application file is:
+
+```console
+Blackburn_Ryan_Bank_Login.cpp
+```
+### This project requires a C++ compiler that supports modern C++ features.
+
+## Visual Studio
+Open Visual Studio
+
+Create a new Console App project in C++
+
+Replace the default source file contents with the contents of Blackburn_Ryan_Bank_Login.cpp
+
+Build and run the project using:
+```console
+ctrl+F5
+```
+## Login Credentials for Testing:
+The program includes a built-in test credential store for demonstration purposes.
+
+Available usernames and passwords are:
+
+```console
+advisor1   / SecurePass123
+manager1   / Password456
+analyst1   / SNHU789
+```
+## Program Workflow
+After launching the application:
+
+-Enter a valid username
+-Enter the corresponding password
+-If authentication succeeds, the program will display a menu with the following options:
+```console
+1 = Display the client list
+2 = Change a client's service choice
+3 = Exit the program
+```
+
+Username Rules
+
+Usernames must meet the following validation requirements:
+
+- between 3 and 20 characters long
+- may contain:
+- uppercase letters
+- lowercase letters
+- digits
+- underscores
+
+Invalid usernames will be rejected before authentication is attempted.
+
