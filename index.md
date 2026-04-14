@@ -31,9 +31,9 @@ Overall, this ePortfolio represents my growth from writing functional code to de
 
 This portfolio includes three enhanced artifacts demonstrating core competencies in:
 
-- Software Design and Engineering
-- Algorithms and Data Structures
-- Databases and Data Management
+* Software Design and Engineering
+* Algorithms and Data Structures
+* Databases and Data Management
 
 Each artifact was analyzed, improved, and aligned with industry practices and course outcomes.
 
