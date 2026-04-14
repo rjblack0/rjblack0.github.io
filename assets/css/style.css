@@ -6,7 +6,7 @@ body {
 }
 
 /* Headers */
-h1, h2, h3 {
+h1, h3 {
     color: #ffffff;
 }
 
@@ -20,14 +20,29 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Navigation list */
 ul {
     background-color: #112a45;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #4da6ff;
 }
 
 /* Section spacing */
 section, div {
     margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #66b3ff;
+    font-weight: 500;
 }

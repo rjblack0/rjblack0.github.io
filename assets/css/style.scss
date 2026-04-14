@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Your overrides below */
+
+body {
+    background-color: #0a1a2f;
+    color: #f5f7fa;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+a {
+    color: #4da6ff;
+}
+
+ul {
+    background-color: #112a45;
+    padding: 10px;
+    border-radius: 5px;
+}
