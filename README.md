@@ -29,7 +29,7 @@ python -m notebook
 ### For the purpose of testing environment, a JSON file has been included which can be used for storing login credentials
 ### This file would NOT be included in any release versions.
 
-##Jupyter Notebook Requirements ##
+##Jupyter Notebook Requirements
 
 ### To test this on your local system:
 Navigate to the project folder
@@ -47,8 +47,8 @@ Aand all install all dependencies:
     python -m pip install numpy pandas matplotlib dash dash-leaflet plotly pymongo jupyter-dash
 ```
 
-## MongoDB Requirements ##
-### Mongosh ###
+## MongoDB Requirements
+### Mongosh
 https://www.mongodb.com/try/download/shell
 
 https://www.mongodb.com/try/download/database-tools
