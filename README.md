@@ -1,4 +1,4 @@
-# Animal_Shelter Installation Notes
+# Animal Shelter Installation Notes
 
 ## Program redesign expects to load credentials securely using environment variables
 ### To login using Environmental variables:
@@ -92,7 +92,7 @@ Your actual command might change depending on your computer layout and the locat
 [Full Path to mongoimport.exe] --db AAC --collection animals --type csv --headerline --file [Full path to the .csv file inside of your project/datasets folder]
 ```
 
-# Bank_Login Installation Notes
+# Bank Login Installation Notes
 
 ## Source File
 
