@@ -1,10 +1,11 @@
 /* Background and main text */
 body {
-    background-color: #0a1a2f; /* deep navy */
-    color: #f5f7fa; /* soft white */
+    background: linear-gradient(180deg, #0a1a2f 0%, #081424 100%);
+    color: #f5f7fa;
     font-family: Arial, sans-serif;
     max-width: 900px;
     margin: auto;
+    padding: 20px;
 }
 
 /* Headers */
@@ -12,6 +13,7 @@ h1, h2, h3 {
     color: #ffffff;
 }
 
+/* Section headers */
 h2 {
     margin-top: 30px;
     margin-bottom: 10px;
@@ -34,6 +36,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: #99ccff;
 }
 
 /* Navigation / lists */
@@ -42,9 +45,46 @@ ul {
     padding: 15px;
     border-radius: 8px;
     border-left: 4px solid #4da6ff;
+    margin-bottom: 25px;
 }
 
-/* Section spacing */
+/* Navigation items spacing */
+ul li {
+    margin-bottom: 8px;
+}
+
+/* Navigation hover effect */
+ul li a {
+    display: block;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+ul li a:hover {
+    background-color: #1f3b5c;
+}
+
+/* Card-style sections (applies to main content blocks) */
 section, div {
-    margin-bottom: 20px;
+    background-color: #112a45;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+/* Slight emphasis for bold text */
+strong {
+    color: #ffffff;
+}
+
+/* Improve readability for lists inside content */
+ol, ul:not(:first-of-type) {
+    margin-left: 20px;
+}
+
+/* Optional: subtle divider line */
+hr {
+    border: none;
+    border-top: 1px solid #1f3b5c;
+    margin: 30px 0;
 }
