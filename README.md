@@ -1,4 +1,4 @@
-# Animal_Shelter Notes
+# Animal_Shelter Installation Notes
 
 ## Program redesign expects to load credentials securely using environment variables
 ### To login using Environmental variables:
