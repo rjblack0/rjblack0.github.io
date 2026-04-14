@@ -42,9 +42,9 @@ Then install Jupyter Notebook:
 ```console
 pip install notebook
 ```
-Aand all install all dependencies:
+And all install all dependencies:
 ```console
-    python -m pip install numpy pandas matplotlib dash dash-leaflet plotly pymongo jupyter-dash
+python -m pip install numpy pandas matplotlib dash dash-leaflet plotly pymongo jupyter-dash
 ```
 
 ## MongoDB Requirements
