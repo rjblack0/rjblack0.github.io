@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Ryan Blackburn's ePortfolio
 description: This is my professional ePortfolio displaying the culmination of my Computer Science Education.
+
+sass:
+  style: compressed
