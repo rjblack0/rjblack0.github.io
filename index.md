@@ -55,7 +55,7 @@ Key Enhancements:
 - Query optimization using projections and indexing strategies
 - Improved data handling for scalability
 
-[View Dashboard Notebook](./artifacts/Animal_Shelter/)
+[View Dashboard Notebook](https://github.com/rjblack0/rjblack0.github.io/tree/main/artifacts/Animal_Shelter)
 
 ## Artifact 2 Secure Banking Login Application
 Algorithms & Data Structures
@@ -68,7 +68,7 @@ Key Enhancements:
 - Map-based tracking of login attempts
 - Object-oriented refactor for maintainability
 
-[View Bank Login App](./artifacts/Bank_Login/)
+[View Bank Login App](https://github.com/rjblack0/rjblack0.github.io/tree/main/artifacts/Bank_Login)
 
 ## Artifact Use Guide
 For testing purposes, These artifacts require installation and dependencies.
